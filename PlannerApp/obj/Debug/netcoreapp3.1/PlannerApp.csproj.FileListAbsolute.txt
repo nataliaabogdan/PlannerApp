@@ -1,0 +1,13 @@
+E:\Programowanie w C# i .Net\PlannerApp\PlannerApp\bin\Debug\netcoreapp3.1\PlannerApp.exe
+E:\Programowanie w C# i .Net\PlannerApp\PlannerApp\bin\Debug\netcoreapp3.1\PlannerApp.deps.json
+E:\Programowanie w C# i .Net\PlannerApp\PlannerApp\bin\Debug\netcoreapp3.1\PlannerApp.runtimeconfig.json
+E:\Programowanie w C# i .Net\PlannerApp\PlannerApp\bin\Debug\netcoreapp3.1\PlannerApp.runtimeconfig.dev.json
+E:\Programowanie w C# i .Net\PlannerApp\PlannerApp\bin\Debug\netcoreapp3.1\PlannerApp.dll
+E:\Programowanie w C# i .Net\PlannerApp\PlannerApp\bin\Debug\netcoreapp3.1\PlannerApp.pdb
+E:\Programowanie w C# i .Net\PlannerApp\PlannerApp\obj\Debug\netcoreapp3.1\PlannerApp.csprojAssemblyReference.cache
+E:\Programowanie w C# i .Net\PlannerApp\PlannerApp\obj\Debug\netcoreapp3.1\PlannerApp.AssemblyInfoInputs.cache
+E:\Programowanie w C# i .Net\PlannerApp\PlannerApp\obj\Debug\netcoreapp3.1\PlannerApp.AssemblyInfo.cs
+E:\Programowanie w C# i .Net\PlannerApp\PlannerApp\obj\Debug\netcoreapp3.1\PlannerApp.csproj.CoreCompileInputs.cache
+E:\Programowanie w C# i .Net\PlannerApp\PlannerApp\obj\Debug\netcoreapp3.1\PlannerApp.dll
+E:\Programowanie w C# i .Net\PlannerApp\PlannerApp\obj\Debug\netcoreapp3.1\PlannerApp.pdb
+E:\Programowanie w C# i .Net\PlannerApp\PlannerApp\obj\Debug\netcoreapp3.1\PlannerApp.genruntimeconfig.cache

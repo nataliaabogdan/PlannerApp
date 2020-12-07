@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\natal\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\natal\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_PlannerApp.-1799462843.00" t="ExcludeRecursive" />
+    <e p="E:\Programowanie w C# i .Net\PlannerApp" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="PlannerApp" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controller" t="Include" />
+        <e p="Model" t="Include">
+          <e p="Add.cs" t="Include" />
+          <e p="AddPlan.cs" t="Include" />
+          <e p="AddTaskCheckable.cs" t="Include" />
+          <e p="ClearDay.cs" t="Include" />
+          <e p="DisplayPlanner.cs" t="Include" />
+          <e p="Event.cs" t="Include" />
+          <e p="Plan.cs" t="Include" />
+          <e p="Planner.cs" t="Include" />
+          <e p="PreviousPlan.cs" t="Include" />
+          <e p="ProductivityAnalysisDay.cs" t="Include" />
+          <e p="Remove.cs" t="Include" />
+          <e p="RemovePlan.cs" t="Include" />
+          <e p="RemoveTaskCheckable.cs" t="Include" />
+          <e p="TaskCheckable.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="PlannerApp.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PlannerApp.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="View" t="Include">
+          <e p="DisplayTaskCheckable.cs" t="Include" />
+        </e>
+      </e>
+      <e p="PlannerApp.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
