@@ -2,24 +2,24 @@
 {
     public class TaskCheckable: Event
     {
-        private bool _isChecked;
-        public override string Note { get; set; }
-        public bool IsChecked { get; set; }
+        public StateOfTask _stateOfTask;
 
         public TaskCheckable()
         {
             Note = "";
-            IsChecked = false;
+            _stateOfTask=new TaskNotCheckedOff();
         }
-        public TaskCheckable(string xnote)
+        public TaskCheckable(string xnote, StateOfTask stateOfTask)
         {
             Note = xnote;
-            IsChecked = false;
+            TransitionTo(stateOfTask);
         }
-        public TaskCheckable(string xnote, bool xischecked)
+        public void TransitionTo(StateOfTask stateOfTask)
         {
-            Note = xnote;
-            IsChecked = xischecked;
+            this._stateOfTask = stateOfTask;
+            this._stateOfTask.SetTaskCheckable(this);
         }
+
+        public override string Note { get; set; }
     }
 }

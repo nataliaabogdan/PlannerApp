@@ -7,22 +7,42 @@
       <e p="packages" t="ExcludeRecursive" />
       <e p="PlannerApp" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
-        <e p="Controller" t="Include" />
+        <e p="Controller" t="Include">
+          <e p="Command.cs" t="Include" />
+          <e p="Command1And2.cs" t="Include" />
+          <e p="Command3And4.cs" t="Include" />
+          <e p="Command5.cs" t="Include" />
+          <e p="Command7.cs" t="Include" />
+          <e p="Planner.cs" t="Include" />
+        </e>
         <e p="Model" t="Include">
           <e p="Add.cs" t="Include" />
           <e p="AddPlan.cs" t="Include" />
           <e p="AddTaskCheckable.cs" t="Include" />
+          <e p="ClearAll.cs" t="Include" />
           <e p="ClearDay.cs" t="Include" />
-          <e p="DisplayPlanner.cs" t="Include" />
+          <e p="CreatorAdd.cs" t="Include" />
+          <e p="CreatorAddPlan.cs" t="Include" />
+          <e p="CreatorAddTaskCheckable.cs" t="Include" />
+          <e p="DayAndNote.cs" t="Include" />
           <e p="Event.cs" t="Include" />
+          <e p="IMemento.cs" t="Include" />
+          <e p="Invoker.cs" t="Include" />
+          <e p="Iterator.cs" t="Include" />
+          <e p="IteratorAggregate.cs" t="Include" />
+          <e p="LengthOfLongestDay.cs" t="Include" />
+          <e p="MementoManager.cs" t="Include" />
+          <e p="MementoManagerIterator.cs" t="Include" />
+          <e p="MementoPlannerData.cs" t="Include" />
           <e p="Plan.cs" t="Include" />
-          <e p="Planner.cs" t="Include" />
-          <e p="PreviousPlan.cs" t="Include" />
-          <e p="ProductivityAnalysisDay.cs" t="Include" />
+          <e p="PlannerData.cs" t="Include" />
           <e p="Remove.cs" t="Include" />
           <e p="RemovePlan.cs" t="Include" />
           <e p="RemoveTaskCheckable.cs" t="Include" />
+          <e p="StateOfTask.cs" t="Include" />
           <e p="TaskCheckable.cs" t="Include" />
+          <e p="TaskCheckedOff.cs" t="Include" />
+          <e p="TaskNotCheckedOff.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -34,7 +54,14 @@
         <e p="PlannerApp.csproj" t="IncludeRecursive" />
         <e p="Program.cs" t="Include" />
         <e p="View" t="Include">
-          <e p="DisplayTaskCheckable.cs" t="Include" />
+          <e p="Command1And2Text.cs" t="Include" />
+          <e p="Command3And4Text.cs" t="Include" />
+          <e p="Command5Text.cs" t="Include" />
+          <e p="Command7Text.cs" t="Include" />
+          <e p="CommandText.cs" t="Include" />
+          <e p="DisplayMenu.cs" t="Include" />
+          <e p="DisplayPlanner.cs" t="Include" />
+          <e p="InvalidTypeNotification.cs" t="Include" />
         </e>
       </e>
       <e p="PlannerApp.sln" t="IncludeFlat" />
